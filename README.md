@@ -67,6 +67,16 @@ I contribute code, documentation and Chinese localization to projects I actually
 - [Apache ShenYu](https://github.com/apache/shenyu/pulls?q=is%3Apr+author%3AShawnSiao) — client, integration-test and code improvements
 - [LeRobot documentation](https://github.com/tc-huang/lerobot/pulls?q=is%3Apr+author%3AShawnSiao) — Simplified Chinese simulation and inference guides
 
+## Issue reports & security-tooling reliability
+
+I also file reproducible issue reports with deterministic evidence, then follow fixes through review and release:
+
+- [openai/codex-security#31](https://github.com/openai/codex-security/issues/31) — found queued full session-tree rescans that could delay cost-budget enforcement; closed as completed with a contributor fix
+- [openai/codex-security#30](https://github.com/openai/codex-security/issues/30) — reported corrupted multiscan artifacts being treated as completed and skipped; currently an open P1 bug
+- [openai/codex-security#211](https://github.com/openai/codex-security/issues/211) — reported cleanup failures that can mask a scan outcome and suppress its repository receipt; currently an open P1 bug
+- [openai/codex-security#32](https://github.com/openai/codex-security/issues/32) — reproduced a Windows CRLF package-validation failure; the fix landed in PR #436 and I verified it in the published 0.1.17 package
+- [OpenAI Codex issue reports](https://github.com/openai/codex/issues?q=is%3Aissue+author%3AShawnSiao) — documentation drift, runtime requirements and compatibility regressions
+
 ## More work
 
 - [siao-skills](https://github.com/ShawnSiao/siao-skills) — reusable Agent Skills for research, writing, visualization and automation
