@@ -8,6 +8,16 @@
 
 <br /><br />
 
+<table width="100%">
+<tr>
+<td align="center" width="33%"><strong>04</strong><br /><sub>SELECTED PRODUCTS</sub></td>
+<td align="center" width="34%"><strong>OPENAI · HUGGING FACE · APACHE</strong><br /><sub>OPEN-SOURCE CONTRIBUTIONS</sub></td>
+<td align="center" width="33%"><strong>SECURITY · HARNESS</strong><br /><sub>RESEARCH &amp; REPORTS</sub></td>
+</tr>
+</table>
+
+<br />
+
 [![Windows](https://img.shields.io/badge/Windows-local--first-0078D4?style=for-the-badge&logo=windows11&logoColor=white)](https://github.com/ShawnSiao?tab=repositories)
 [![Rust](https://img.shields.io/badge/Rust-desktop%20core-111827?style=for-the-badge&logo=rust&logoColor=white)](https://github.com/ShawnSiao?tab=repositories&q=&type=source&language=rust)
 [![TypeScript](https://img.shields.io/badge/TypeScript-product%20UI-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/ShawnSiao?tab=repositories&q=&type=source&language=typescript)
@@ -25,6 +35,10 @@
 <tr>
 <td width="50%" valign="top">
 
+<a href="https://shawnsiao.github.io/siao-cut-hackathon-demo/"><img src="./assets/products/siao-cut.png" alt="SiaoCut product interface" width="100%" /></a>
+
+<br />
+
 <sub>WINDOWS DESKTOP · RUST · AI VIDEO</sub>
 
 ### [SiaoCut](https://github.com/ShawnSiao/siao-cut)
@@ -35,6 +49,10 @@ A Windows-local-first AI video editing workbench. It combines transcription, sub
 
 </td>
 <td width="50%" valign="top">
+
+<a href="https://shawnsiao.github.io/siao-vplay-hackathon-demo/"><img src="./assets/products/siao-vplay.png" alt="SiaoVPlay product interface" width="100%" /></a>
+
+<br />
 
 <sub>WINDOWS DESKTOP · RUST · LANGUAGE</sub>
 
@@ -49,6 +67,10 @@ A cross-language intelligent video player for Windows, built around local media 
 <tr>
 <td width="50%" valign="top">
 
+<a href="https://github.com/ShawnSiao/voicevault"><img src="./assets/products/voicevault.svg" alt="VoiceVault local evidence system" width="100%" /></a>
+
+<br />
+
 <sub>LOCAL DATA · PYTHON · KNOWLEDGE</sub>
 
 ### [VoiceVault](https://github.com/ShawnSiao/voicevault)
@@ -59,6 +81,10 @@ A local-first public-content archive and evidence-grounded personal knowledge ba
 
 </td>
 <td width="50%" valign="top">
+
+<a href="https://shawnsiao.github.io/intangible-cultural-heritage-static/"><img src="./assets/products/ich-map.png" alt="China Intangible Cultural Heritage Map" width="100%" /></a>
+
+<br />
 
 <sub>PUBLIC DATA · TYPESCRIPT · MAP</sub>
 
