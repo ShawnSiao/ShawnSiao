@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">Shawn Siao — Local-first AI Product Builder</title>
+  <desc id="desc">A dark technology-inspired banner with neon circuitry, product engineering labels, and an abstract AI network.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#07111f"/><stop offset="0.55" stop-color="#0b1830"/><stop offset="1" stop-color="#111337"/></linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#22d3ee"/><stop offset="0.5" stop-color="#60a5fa"/><stop offset="1" stop-color="#a78bfa"/></linearGradient>
+    <radialGradient id="orb" cx="50%" cy="50%" r="50%"><stop offset="0" stop-color="#22d3ee" stop-opacity="0.45"/><stop offset="0.55" stop-color="#6366f1" stop-opacity="0.15"/><stop offset="1" stop-color="#07111f" stop-opacity="0"/></radialGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#7dd3fc" stroke-opacity="0.08" stroke-width="1"/></pattern>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="5" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <clipPath id="frame"><rect width="1200" height="320" rx="24"/></clipPath>
+  </defs>
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="320" fill="url(#bg)"/><rect width="1200" height="320" fill="url(#grid)"/><circle cx="1000" cy="150" r="230" fill="url(#orb)"/><path d="M0 6H1200" stroke="url(#accent)" stroke-width="12"/>
+    <g fill="none" stroke="#38bdf8" stroke-opacity="0.28" stroke-width="1.5"><path d="M0 250H130L170 210H315"/><path d="M80 320V285L125 240"/><path d="M440 0V45L480 85H640"/><path d="M690 320V275L730 235H815"/><path d="M1170 30V75L1130 115"/></g>
+    <g fill="#67e8f9" filter="url(#glow)"><circle cx="130" cy="250" r="3"/><circle cx="170" cy="210" r="3"/><circle cx="480" cy="85" r="3"/><circle cx="730" cy="235" r="3"/></g>
+    <g transform="translate(58 48)"><rect width="420" height="34" rx="17" fill="#0f2742" stroke="#38bdf8" stroke-opacity="0.35"/><circle cx="18" cy="17" r="4" fill="#fb7185"/><circle cx="34" cy="17" r="4" fill="#fbbf24"/><circle cx="50" cy="17" r="4" fill="#34d399"/><text x="70" y="22" fill="#93c5fd" font-family="Consolas,Monaco,monospace" font-size="14">shawn@local-first:~$ build --with-evidence</text></g>
+    <text x="58" y="145" fill="#f8fafc" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="62" font-weight="750" letter-spacing="2">SHAWN SIAO</text>
+    <text x="61" y="183" fill="url(#accent)" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="24" font-weight="650" letter-spacing="3">LOCAL-FIRST AI PRODUCT BUILDER</text>
+    <text x="61" y="218" fill="#a8b8d4" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17">Windows products · agent workflows · open-source engineering</text>
+    <g transform="translate(60 249)" font-family="Consolas,Monaco,monospace" font-size="13" font-weight="700">
+      <g><rect width="78" height="28" rx="6" fill="#111f33" stroke="#22d3ee" stroke-opacity="0.55"/><text x="18" y="19" fill="#67e8f9">RUST</text></g>
+      <g transform="translate(90)"><rect width="118" height="28" rx="6" fill="#111f33" stroke="#60a5fa" stroke-opacity="0.55"/><text x="15" y="19" fill="#93c5fd">TYPESCRIPT</text></g>
+      <g transform="translate(220)"><rect width="88" height="28" rx="6" fill="#111f33" stroke="#818cf8" stroke-opacity="0.55"/><text x="17" y="19" fill="#a5b4fc">PYTHON</text></g>
+      <g transform="translate(320)"><rect width="92" height="28" rx="6" fill="#111f33" stroke="#a78bfa" stroke-opacity="0.55"/><text x="13" y="19" fill="#c4b5fd">WINDOWS</text></g>
+    </g>
+    <g transform="translate(958 151)"><circle r="108" fill="none" stroke="#38bdf8" stroke-opacity="0.18"/><circle r="78" fill="none" stroke="#818cf8" stroke-opacity="0.25" stroke-dasharray="8 8"/><circle r="45" fill="#0b2441" stroke="url(#accent)" stroke-width="2"/><path d="M0-45 39-22 39 22 0 45-39 22-39-22Z" fill="none" stroke="#67e8f9" stroke-opacity="0.65"/><text x="0" y="9" text-anchor="middle" fill="#e0f2fe" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="26" font-weight="800">AI</text><g fill="#67e8f9" filter="url(#glow)"><circle cx="0" cy="-108" r="4"/><circle cx="94" cy="-53" r="4"/><circle cx="94" cy="53" r="4"/><circle cx="0" cy="108" r="4"/><circle cx="-94" cy="53" r="4"/><circle cx="-94" cy="-53" r="4"/></g><g stroke="#67e8f9" stroke-opacity="0.32"><path d="M0-108V-45M94-53 39-22M94 53 39 22M0 108V45M-94 53-39 22M-94-53-39-22"/></g></g>
+    <text x="1160" y="294" text-anchor="end" fill="#64748b" font-family="Consolas,Monaco,monospace" font-size="12" letter-spacing="1.5">OPEN SOURCE / SECURITY / RELIABILITY</text>
+  </g>
+</svg>
