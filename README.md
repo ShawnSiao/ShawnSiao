@@ -67,17 +67,17 @@ A cross-language intelligent video player for Windows, built around local media 
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://github.com/ShawnSiao/voicevault"><img src="./assets/products/voicevault.svg" alt="VoiceVault local evidence system" width="100%" /></a>
+<a href="https://shawnsiao.github.io/village-of-a-thousand-words/"><img src="./assets/products/village-of-a-thousand-words.png" alt="Village of a Thousand Words interactive narrative game" width="100%" /></a>
 
 <br />
 
-<sub>LOCAL DATA · PYTHON · KNOWLEDGE</sub>
+<sub>INTERACTIVE FICTION · AI MEMORY · CHINESE</sub>
 
-### [VoiceVault](https://github.com/ShawnSiao/voicevault)
+### [Village of a Thousand Words · 千字村](https://shawnsiao.github.io/village-of-a-thousand-words/)
 
-A local-first public-content archive and evidence-grounded personal knowledge base, with explicit data and security boundaries.
+An interactive Chinese narrative game inspired by the limits of AI context windows. The village shares a 1,000-character memory; as older context is compressed or lost, later choices and outcomes change.
 
-[Repository](https://github.com/ShawnSiao/voicevault)
+[Play in browser](https://shawnsiao.github.io/village-of-a-thousand-words/)
 
 </td>
 <td width="50%" valign="top">
@@ -145,7 +145,6 @@ I publish reproducible issue reports and source-backed technical discussions, wi
 
 - [siao-skills](https://github.com/ShawnSiao/siao-skills) — reusable Agent Skills for research, writing, visualization and automation
 - [Personal Knowledge Site](https://shawnsiao.github.io/personal-knowledge-site/) — practical notes and reusable engineering knowledge
-- [Village of a Thousand Words](https://shawnsiao.github.io/village-of-a-thousand-words/) — an interactive Chinese learning experience
 
 ## 05 — Engineering principles
 
